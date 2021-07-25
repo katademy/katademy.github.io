@@ -1,11 +1,10 @@
-site_name: Katademy
+site_name: katademy
 site_url: https://katademy.github.io
 site_author: Icelyn Jennings
 site_description: Learn AWS, Kubernetes, Linux for free.
 
 theme:
   favicon: favicon.png
-  custom_dir: overrides
   features:
     - header.autohide
     - navigation.top
